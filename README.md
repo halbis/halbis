@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bishal Bista
 - 👀 I'm a MERN stack developer. I like developing Full Stack JavaScript Web Apps. 
 - 🌱 I’m currently learning Bsc.Csit in Tribhuvan University(IOST), Kathmandu, Nepal
-- 💞️ Currently, I'm working on Wishgee.com as a React Native Developer.
+- 💞️ Currently, I'm learning goland and devOps.
 - 📫 Contact me on halbis200@gmail.com || Find me on Linkedin: https://www.linkedin.com/in/bishal-bista-b539821a0/
 
 <!---
